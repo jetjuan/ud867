@@ -39,7 +39,7 @@ android {
             applicationId "com.udacity.gradle.testing.free"
         }
         paid {
-            applicationId "com.udacity.gradle.testing.paid"
+            a   pplicationId "com.udacity.gradle.testing.paid"
         }
     }
 
